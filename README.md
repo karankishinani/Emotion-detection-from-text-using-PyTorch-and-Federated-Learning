@@ -1,6 +1,6 @@
 # Emotion Detection from text using PyTorch
 
-Open project [notebook](./blob/master/Emotion Detection from text using PyTorch.ipynb) .
+Open project [notebook](Emotion_Detection_from_text_using_PyTorch.ipynb) .
 
 ### Dataset
 
