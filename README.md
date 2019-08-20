@@ -2,9 +2,6 @@
 
 Open project [notebook](https://github.com/karankishinani/Emotion-detection-from-text-using-PyTorch-and-Federated-Learning/blob/master/Emotion_detection_from_text_using_PyTorch_and_Federated_Learning.ipynb).
 
-### Objective
-
-
 ### Dataset
 
 Phase | Instances | File |
@@ -17,10 +14,16 @@ Testing | 56 | tesss.csv |
 The embedding can be downloaded from [here](https://worksheets.codalab.org/rest/bundles/0x97c870dd60eb4f0fa53f257978851c60/contents/blob/glove.6B.50d.txt ).
 
 ### Model
-![Model Architecture](images/model.png "Model Architecture")
+![Model Architecture](https://drive.google.com/uc?id=1s-KYhU5JWF-jvAlZ2MIKKugxLLDdhpQP "Model Architecture")
 
 ### Emotions
-label, name table
+No.|Emotion |
+ ---|--- |
+0|Loving |
+1|Playful |
+2|Happy |
+3|Annoyed |
+4|Foodie |
 
 ### Collaborators
 
