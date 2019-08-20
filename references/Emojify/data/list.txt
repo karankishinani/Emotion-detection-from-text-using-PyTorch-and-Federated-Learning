@@ -1,8 +1,0 @@
-emojify_data.csv
-glove.6B.50d.txt [163 MB]
-tes.csv
-tess.csv
-tesss.csv
-testing.csv
-test_emoji.csv
-train_emoji.csv
