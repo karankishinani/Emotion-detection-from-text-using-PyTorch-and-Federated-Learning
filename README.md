@@ -6,8 +6,8 @@ Open project [notebook](Emotion_Detection_from_text_using_PyTorch.ipynb) .
 
 Phase | Instances | File |
 --- | --- | --- |
-Training | 132 | train_emoji.csv |
-Testing | 56 | tesss.csv |
+Training | 132 | train.csv |
+Testing | 56 | test.csv |
 
 * Each sentence contains maximum 10 words.     
 * GloVe Embedding used: glove.6B.50d.txt   
